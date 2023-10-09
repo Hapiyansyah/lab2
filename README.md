@@ -35,7 +35,7 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 ## Jawaban
 1. saya akan mengubah properti html dan css internal
 
-
+![7](lab2/foto/7.png)
 
 2. Pendeklarasian CSS "h1 {...}" memilih semua elemen "h1" di halaman, sedangkan "#intro h1 {...}" memilih hanya elemen "h1" yang berada di dalam elemen dengan ID "intro". Ini memungkinkan Anda untuk mengkustomisasi gaya elemen secara lebih spesifik dengan kombinasi selektor.
 
